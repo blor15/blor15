@@ -1,4 +1,4 @@
-### Hi, I'm Brandon a Front-End Developer based out in Denver, Colorado. I recently graduated from a coding bootcamp called Fullstack Academy hosted through Colorado State University 👋
+### Hi, I'm Brandon a Front-End Developer based out in Denver, Colorado. I am recent graduate from a coding bootcamp called Fullstack Academy hosted through Colorado State University. I made the decision to pursue a career change into web development through a friend who introduced me to the world of coding. At first I thought to myself I couldn't do this, but I found through open sources online and through my friend that coding isn't as bad as it seems and that it's actually rewarding once you finish a project or finally debugg the error that's been bothering you all day.  
 
 <!--
 **blor15/blor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
