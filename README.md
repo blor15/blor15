@@ -1,3 +1,5 @@
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/66978579/181151947-45e6ab35-31fc-4e9f-9122-505cb4ad2725.png)
+
 ### Hi, I'm Brandon a Front-End Developer based out in Denver, Colorado. I am recent graduate from a coding bootcamp called Fullstack Academy hosted through Colorado State University. I made the decision to pursue a career change into web development through a friend who introduced me to the world of coding. Coming from a Criminal Justice background at the University of Colorado Denver I thought to myself I couldn't do this because of my educational background, but I found out through open sources online and through my friend that coding isn't as bad as it seems and that it's actually rewarding once you finish a project or finally debugg the error that's been bothering you all day.  
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
