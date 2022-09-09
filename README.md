@@ -2,6 +2,8 @@
 
 ### Hi, I'm Brandon a Front-End Developer based out in Denver, Colorado. I am recent graduate from a coding bootcamp called Fullstack Academy hosted through Colorado State University. I made the decision to pursue a career change into web development through a friend who introduced me to the world of coding. Coming from a Criminal Justice background at the University of Colorado Denver I thought to myself I couldn't do this because of my educational background, but I found out through open sources online and through my friend that coding isn't as bad as it seems and that it's actually rewarding once you finish a project or finally debugg the error that's been bothering you all day.  
 
+###:hammer_and_wrench: Languages and Tools:
+
 <!--
 **blor15/blor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
