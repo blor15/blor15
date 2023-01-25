@@ -2,6 +2,8 @@
 
 ### Hi, I'm Brandon a Front-End Developer based out in Denver, Colorado. I am recent graduate from a coding bootcamp called Fullstack Academy hosted through Colorado State University. I made the decision to pursue a career change into web development through a friend who introduced me to the world of coding. Coming from a Criminal Justice background at the University of Colorado Denver I thought to myself I couldn't do this because of my educational background, but I found out through open sources online and through my friend that coding isn't as bad as it seems and that it's actually rewarding once you finish a project or finally debugg the error that's been bothering you all day.  
 
+I am currently open for an intern or new job opportunity
+
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />
@@ -10,6 +12,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
 </div>
+
+
 
 <!-- PROJECTS START -->
 <!-- PROJECTS END -->
